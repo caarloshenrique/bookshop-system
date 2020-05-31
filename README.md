@@ -1,6 +1,13 @@
 # bookshop-system
 :blue_book: Um sistema de livraria com banco de dados MySQL
 
+## Tecnologias utilizadas :rocket: 
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
+- [MySQL 5](https://dev.mysql.com/)
+{...}
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
